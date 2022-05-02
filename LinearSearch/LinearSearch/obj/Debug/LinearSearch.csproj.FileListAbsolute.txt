@@ -1,0 +1,8 @@
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\mwbel\Downloads\csharp-practice\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

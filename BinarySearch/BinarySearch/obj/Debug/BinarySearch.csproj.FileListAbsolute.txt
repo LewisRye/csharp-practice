@@ -1,0 +1,8 @@
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\mwbel\Downloads\csharp-practice\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

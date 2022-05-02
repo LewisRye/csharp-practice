@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{FF917011-2A7E-42C9-B143-CC38544DC592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF917011-2A7E-42C9-B143-CC38544DC592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF917011-2A7E-42C9-B143-CC38544DC592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF917011-2A7E-42C9-B143-CC38544DC592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF917011-2A7E-42C9-B143-CC38544DC592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3374FD-2BF4-4AA4-BA56-588A97F39566}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.csproj.AssemblyReference.cache
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.exe.config
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.exe
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.pdb
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.exe
+C:\Users\mwbel\Downloads\csharp-practice\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.pdb
