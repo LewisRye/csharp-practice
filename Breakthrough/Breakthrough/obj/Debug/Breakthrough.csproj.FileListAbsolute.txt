@@ -1,0 +1,8 @@
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe.config
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\bin\Debug\Breakthrough.pdb
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\obj\Debug\Breakthrough.csproj.AssemblyReference.cache
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\obj\Debug\Breakthrough.csproj.SuggestedBindingRedirects.cache
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\obj\Debug\Breakthrough.csproj.CoreCompileInputs.cache
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\obj\Debug\Breakthrough.exe
+C:\Users\mwbel\Downloads\csharp-practice\Breakthrough\Breakthrough\obj\Debug\Breakthrough.pdb
