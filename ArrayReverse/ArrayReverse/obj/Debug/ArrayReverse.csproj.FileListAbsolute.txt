@@ -1,0 +1,7 @@
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.pdb
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csprojAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.pdb
