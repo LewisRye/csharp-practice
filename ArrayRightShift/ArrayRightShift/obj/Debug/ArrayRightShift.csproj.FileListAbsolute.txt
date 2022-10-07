@@ -5,3 +5,11 @@
 \\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.CoreCompileInputs.cache
 \\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.exe
 \\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.pdb
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\bin\Debug\ArrayRightShift.exe.config
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\bin\Debug\ArrayRightShift.exe
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\bin\Debug\ArrayRightShift.pdb
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.AssemblyReference.cache
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.SuggestedBindingRedirects.cache
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.CoreCompileInputs.cache
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.exe
+C:\Users\mwbel\OneDrive\Homework\Code\C#\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.pdb
