@@ -1,0 +1,7 @@
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

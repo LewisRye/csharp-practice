@@ -39,12 +39,12 @@ namespace ArrayRightShift
                 array[0] = temp;
             }
 
-            Console.Write($"\nYour array shifted right {m} times is: ");
+            Console.Write($"\nYour array shifted right {m} times is: [ ");
             foreach (int value in array)
             {
-                Console.Write(value);
+                Console.Write($"{value}, ");
             }
-
+            Console.Write("]");
             Console.ReadLine();
         }
     }

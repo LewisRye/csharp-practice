@@ -1,0 +1,7 @@
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayLeftShift\ArrayLeftShift\bin\Debug\ArrayLeftShift.exe.config
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayLeftShift\ArrayLeftShift\bin\Debug\ArrayLeftShift.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayLeftShift\ArrayLeftShift\bin\Debug\ArrayLeftShift.pdb
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayLeftShift\ArrayLeftShift\obj\Debug\ArrayLeftShift.csprojAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayLeftShift\ArrayLeftShift\obj\Debug\ArrayLeftShift.csproj.CoreCompileInputs.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayLeftShift\ArrayLeftShift\obj\Debug\ArrayLeftShift.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayLeftShift\ArrayLeftShift\obj\Debug\ArrayLeftShift.pdb

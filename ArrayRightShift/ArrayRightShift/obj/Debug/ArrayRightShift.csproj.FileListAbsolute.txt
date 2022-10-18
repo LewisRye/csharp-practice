@@ -5,3 +5,11 @@
 \\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.CoreCompileInputs.cache
 \\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.exe
 \\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.pdb
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\bin\Debug\ArrayRightShift.exe.config
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\bin\Debug\ArrayRightShift.exe
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\bin\Debug\ArrayRightShift.pdb
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.AssemblyReference.cache
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.SuggestedBindingRedirects.cache
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.csproj.CoreCompileInputs.cache
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.exe
+N:\its\home\lr408\Code Projects\ArrayRightShift\ArrayRightShift\obj\Debug\ArrayRightShift.pdb

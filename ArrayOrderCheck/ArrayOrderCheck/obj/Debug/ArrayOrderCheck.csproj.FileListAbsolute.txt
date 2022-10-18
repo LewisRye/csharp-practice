@@ -1,0 +1,7 @@
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\ArrayOrderCheck\ArrayOrderCheck\bin\Debug\ArrayOrderCheck.exe.config
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\ArrayOrderCheck\ArrayOrderCheck\bin\Debug\ArrayOrderCheck.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\ArrayOrderCheck\ArrayOrderCheck\bin\Debug\ArrayOrderCheck.pdb
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\ArrayOrderCheck\ArrayOrderCheck\obj\Debug\ArrayOrderCheck.csprojAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\ArrayOrderCheck\ArrayOrderCheck\obj\Debug\ArrayOrderCheck.csproj.CoreCompileInputs.cache
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\ArrayOrderCheck\ArrayOrderCheck\obj\Debug\ArrayOrderCheck.exe
+\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\C#\ArrayOrderCheck\ArrayOrderCheck\obj\Debug\ArrayOrderCheck.pdb
