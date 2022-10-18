@@ -1,0 +1,8 @@
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\bin\Debug\ArrayEvenTotal.exe.config
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\bin\Debug\ArrayEvenTotal.exe
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\bin\Debug\ArrayEvenTotal.pdb
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\obj\Debug\ArrayEvenTotal.csproj.AssemblyReference.cache
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\obj\Debug\ArrayEvenTotal.csproj.SuggestedBindingRedirects.cache
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\obj\Debug\ArrayEvenTotal.csproj.CoreCompileInputs.cache
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\obj\Debug\ArrayEvenTotal.exe
+C:\Users\mwbel\OneDrive\Downloads\ArrayEvenTotal\ArrayEvenTotal\obj\Debug\ArrayEvenTotal.pdb

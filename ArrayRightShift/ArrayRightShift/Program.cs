@@ -25,11 +25,10 @@ namespace ArrayRightShift
             int m = Convert.ToInt32(Console.ReadLine());
 
             int length = array.Length;
-            int temp = 0;
 
             for (int i = 0; i < m; i++)
             {
-                temp = array[length - 1]; // the final value of the array
+                int temp = array[length - 1]; // the final value of the array
 
                 for (int j = 0; j < length - 1; j++)
                 {
