@@ -1,8 +1,0 @@
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\bin\Debug\OrderedArray.exe.config
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\bin\Debug\OrderedArray.exe
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\bin\Debug\OrderedArray.pdb
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\obj\Debug\OrderedArray.csproj.AssemblyReference.cache
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\obj\Debug\OrderedArray.csproj.SuggestedBindingRedirects.cache
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\obj\Debug\OrderedArray.csproj.CoreCompileInputs.cache
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\obj\Debug\OrderedArray.exe
-C:\Users\mwbel\OneDrive\Downloads\OrderedArray\OrderedArray\obj\Debug\OrderedArray.pdb

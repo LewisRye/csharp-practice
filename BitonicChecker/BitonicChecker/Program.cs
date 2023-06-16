@@ -18,8 +18,6 @@ namespace BitonicChecker
                 array[i] = Convert.ToInt32(Console.ReadLine());
             }
 
-            //
-
             Console.WriteLine(isBitonic(array));
             Console.ReadLine();
         }

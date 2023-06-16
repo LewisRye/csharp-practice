@@ -1,4 +1,0 @@
-\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\obj\Debug\netcoreapp2.1\ArrayRightShift.csprojAssemblyReference.cache
-\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\obj\Debug\netcoreapp2.1\ArrayRightShift.csproj.CoreCompileInputs.cache
-\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\obj\Debug\netcoreapp2.1\ArrayRightShift.AssemblyInfoInputs.cache
-\\smbhome.uscs.susx.ac.uk\lr408\Code Projects\ArrayRightShift\obj\Debug\netcoreapp2.1\ArrayRightShift.AssemblyInfo.cs
